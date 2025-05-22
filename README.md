@@ -1,5 +1,5 @@
 <body>
-    <h1>🎁Ücretsiz kampanya sitelerimiz</h1>
+    <h1>🎁Bahiscom Yatırım Şartsız Deneme Bonusu</h1>
     <a style=" Boogaloo, sans-serif; font-weight: 400; font-style: normal;color: red;text-decoration: none;" href="https://bit.ly/bahiscomTR"><p>Bahiscom giriş, geniş casino oyunları ve spor bahis seçenekleri sunan lider online platformdur. Güvenilir altyapısı ve cazip bonusları sunar.</p></a>
 <!-- bu img kısmına istediğiniz boyutda fotoğraf koyabilirsiniz-->
     <a href="https://bit.ly/bahiscomTR"><img class="foto" src="https://bahiscom.org/wp-content/uploads/2024/10/Bahiscom-Sosyal.png"></a>
@@ -9,10 +9,10 @@
     <p style="text-align:center; font-size:18px; 20px;">
     <div style="font-size:16px; color:#444; max-width:800px; 20px auto;">
     🎁Kampanyalarımızdan tum kullanıcılarımız yararlanabilir! <br>
-  🤑 Aşağıdaki bağlantıya tıklayarak kampanyalarımıza ulaşabilirsiniz!
+  🤑 Aşağıdaki bağlantıya tıklayarak bahiscom'a ulaşabilirsiniz.
 </div>
   🔗 <strong>Link:</strong>
-  <a href="linkiniz.com" style="color:#20B2AA; font-weight:bold;">Tıklayınız</a>
+  <a href="https://bit.ly/bahiscomTR" style="color:#20B2AA; font-weight:bold;">Tıklayınız</a>
 </p>
 </body>
 </html>
